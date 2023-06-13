@@ -1,0 +1,29 @@
+{
+  "name": "desafio4",
+  "version": "1.0.0",
+  "description": "Desafio #4 do curso de Mentoria em Testes de Software do Julio de Lima.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/victorsarraf/desafio4.git"
+  },
+  "keywords": [
+    "mocha",
+    "javascript",
+    "julio",
+    "de",
+    "lima"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorsarraf/desafio4/issues"
+  },
+  "homepage": "https://github.com/victorsarraf#readme",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
